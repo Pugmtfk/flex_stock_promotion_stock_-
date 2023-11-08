@@ -1,0 +1,436 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สินค้า Stock ไม่เพียงพอ",
+        "color": "#ffffff",
+        "size": "17px",
+        "weight": "bold",
+        "offsetTop": "20px",
+        "offsetBottom": "15px",
+        "offsetStart": "15px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "7",
+            "color": "#ffffff",
+            "weight": "bold",
+            "align": "center",
+            "size": "24px"
+          },
+          {
+            "type": "text",
+            "text": "รายการ",
+            "size": "12px",
+            "color": "#ffffff",
+            "weight": "bold"
+          }
+        ],
+        "width": "68px",
+        "height": "56px",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "borderWidth": "2px",
+        "borderColor": "#ffffff",
+        "cornerRadius": "12px",
+        "offsetTop": "2px",
+        "offsetEnd": "4px"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "270deg",
+      "startColor": "#C30006",
+      "endColor": "#E13232"
+    },
+    "height": "60px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สินค้า",
+            "align": "start",
+            "color": "#979797",
+            "size": "12px",
+            "weight": "bold",
+            "offsetStart": "15px"
+          },
+          {
+            "type": "text",
+            "text": "จำนวนคงเหลือ",
+            "align": "end",
+            "color": "#979797",
+            "size": "12px",
+            "weight": "bold",
+            "offsetEnd": "15px"
+          }
+        ],
+        "justifyContent": "space-between",
+        "offsetBottom": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "height": "1px",
+        "backgroundColor": "#F3F3F5",
+        "paddingAll": "0px",
+        "offsetBottom": "8px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1.",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#979797"
+              }
+            ],
+            "width": "35px",
+            "height": "18px",
+            "offsetStart": "15px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1153028293533110362/image_385.png",
+                "aspectMode": "cover"
+              }
+            ],
+            "width": "60px",
+            "height": "60px",
+            "backgroundColor": "#ffffff",
+            "cornerRadius": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300 ",
+                "offsetStart": "12px",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#222222"
+              },
+              {
+                "type": "text",
+                "text": "เทาแพลตินัม คลูพลัส",
+                "offsetStart": "12px",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#222222"
+              }
+            ],
+            "width": "130px",
+            "offsetBottom": "13px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "100",
+                "size": "18px",
+                "weight": "bold",
+                "color": "#E13232"
+              },
+              {
+                "type": "text",
+                "text": "แผ่น",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#979797"
+              }
+            ],
+            "width": "50px",
+            "offsetBottom": "13px",
+            "offsetStart": "10px",
+            "alignItems": "flex-end"
+          }
+        ],
+        "height": "80px",
+        "backgroundColor": "#ffffff",
+        "offsetBottom": "7px",
+        "alignItems": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "2.",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#979797"
+              }
+            ],
+            "width": "35px",
+            "height": "18px",
+            "offsetStart": "15px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1153031083189882941/image_387.png",
+                "aspectMode": "cover"
+              }
+            ],
+            "width": "60px",
+            "height": "60px",
+            "backgroundColor": "#ffffff",
+            "cornerRadius": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แผ่นสะท้อนความร้อน",
+                "offsetStart": "12px",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#222222"
+              },
+              {
+                "type": "text",
+                "text": "เอสซีจี ขนาด 1.25x60 ม.",
+                "offsetStart": "12px",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#222222"
+              }
+            ],
+            "width": "130px",
+            "offsetBottom": "13px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "50",
+                "size": "18px",
+                "weight": "bold",
+                "color": "#E13232"
+              },
+              {
+                "type": "text",
+                "text": "แผ่น",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#979797"
+              }
+            ],
+            "width": "25px",
+            "offsetBottom": "13px",
+            "offsetStart": "35px",
+            "alignItems": "flex-end"
+          }
+        ],
+        "height": "80px",
+        "backgroundColor": "#F8F8FF",
+        "offsetBottom": "8px",
+        "alignItems": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "3.",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#979797"
+              }
+            ],
+            "width": "35px",
+            "height": "18px",
+            "offsetStart": "15px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1153031627690233927/image_387_1.png",
+                "aspectMode": "cover"
+              }
+            ],
+            "width": "60px",
+            "height": "60px",
+            "backgroundColor": "#ffffff",
+            "cornerRadius": "8px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไม้ฝา_SCG 15x300 ",
+                "offsetStart": "12px",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#222222"
+              },
+              {
+                "type": "text",
+                "text": "ไนท์เกรย์ คลูพลัส",
+                "offsetStart": "12px",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#222222"
+              }
+            ],
+            "width": "145px",
+            "offsetBottom": "13px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20",
+                "size": "18px",
+                "weight": "bold",
+                "color": "#E13232"
+              },
+              {
+                "type": "text",
+                "text": "แผ่น",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#979797"
+              }
+            ],
+            "width": "25px",
+            "offsetBottom": "13px",
+            "alignItems": "flex-end",
+            "offsetStart": "20px"
+          }
+        ],
+        "height": "80px",
+        "backgroundColor": "#ffffff",
+        "offsetBottom": "8px",
+        "alignItems": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "height": "1px",
+        "backgroundColor": "#F3F3F5",
+        "paddingAll": "0px",
+        "offsetBottom": "8px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สั่งสินค้า",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary",
+            "offsetStart": "15px",
+            "color": "#979797"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "width": "45px"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ดูรายละเอียด",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary",
+            "offsetEnd": "15px",
+            "color": "#E13232"
+          }
+        ],
+        "paddingTop": "11px",
+        "justifyContent": "space-between"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "BOT",
+            "size": "8px",
+            "color": "#417BD9",
+            "weight": "bold"
+          }
+        ],
+        "position": "absolute",
+        "alignItems": "flex-end",
+        "offsetStart": "265px",
+        "offsetTop": "345px"
+      },
+      {
+        "type": "image",
+        "url": "https://media.discordapp.net/attachments/1130113229700477089/1151957941864374363/Layer_1-3_2_.png",
+        "position": "absolute",
+        "size": "25px",
+        "offsetTop": "339px",
+        "offsetStart": "235px"
+      }
+    ],
+    "paddingStart": "0px",
+    "paddingEnd": "0px"
+  }
+}
